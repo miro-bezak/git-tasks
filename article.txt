@@ -1,0 +1,9 @@
+This is a short article.
+With a couple of sentences.
+On several lines.
+Created just for the sole purpose
+of the git training.
+
+And I also wanted to add this
+sentence to make sure, there
+enough content.
