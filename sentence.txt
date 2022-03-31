@@ -5,3 +5,5 @@ The quick brown fox jumps over the lazy dog
 This is another paragraph that should cause a  conflict. Basically it is a couple of words without any specific meaning.
 
 Good morning, Mr. Brown!
+Hello, Ms. Bowls!
+
